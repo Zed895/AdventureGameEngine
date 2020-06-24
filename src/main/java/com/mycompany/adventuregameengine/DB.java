@@ -1,5 +1,8 @@
 package com.mycompany.adventuregameengine;
 
+import com.mycompany.adventuregameengine.pojos.Hero;
+import com.mycompany.adventuregameengine.pojos.Item;
+import com.mycompany.adventuregameengine.pojos.Room;
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
 import java.sql.DriverManager;

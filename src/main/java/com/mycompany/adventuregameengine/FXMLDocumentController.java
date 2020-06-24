@@ -1,5 +1,8 @@
 package com.mycompany.adventuregameengine;
 
+import com.mycompany.adventuregameengine.pojos.Hero;
+import com.mycompany.adventuregameengine.pojos.Item;
+import com.mycompany.adventuregameengine.pojos.Room;
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;

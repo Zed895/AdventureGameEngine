@@ -1,4 +1,4 @@
-package com.mycompany.adventuregameengine;
+package com.mycompany.adventuregameengine.pojos;
 
 import javafx.scene.image.Image;
 

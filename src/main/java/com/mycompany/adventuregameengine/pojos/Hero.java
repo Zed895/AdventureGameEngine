@@ -1,4 +1,4 @@
-package com.mycompany.adventuregameengine;
+package com.mycompany.adventuregameengine.pojos;
 
 /**
  * The POJO made according to this class represents the protagonist of the game.
